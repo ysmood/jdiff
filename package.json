@@ -1,0 +1,25 @@
+{
+  "name": "jdiff",
+  "version": "0.0.1",
+  "description": "a diff patch lib for text",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ysmood/jdiff.git"
+  },
+  "keywords": [
+    "diff",
+    "path",
+    "string",
+    "text"
+  ],
+  "author": "http://ysmood.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysmood/jdiff/issues"
+  },
+  "homepage": "https://github.com/ysmood/jdiff"
+}
